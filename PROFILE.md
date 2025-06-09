@@ -1,2 +1,1 @@
-Hello
-Just testing the new files
+Welcome to my GitHub profile!
